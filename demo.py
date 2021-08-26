@@ -1,3 +1,2 @@
-print("done")
-print("sssss")
+print("done")print("sssss")
 
